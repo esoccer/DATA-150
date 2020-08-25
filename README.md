@@ -8,5 +8,6 @@ Hello! This is my collection of responses and projects for DATA 150- Evolving So
 
 
 **Index:**
+
 [Blumenstock Response](Blumenstock.md)
 
