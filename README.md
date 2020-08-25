@@ -10,5 +10,5 @@ ___
 
 **Index:**
 
-[Blumenstock Response](Blumenstock.md)
+[8/25 *Blumenstock Response*](Blumenstock.md)
 
