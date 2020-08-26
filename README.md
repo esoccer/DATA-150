@@ -12,3 +12,5 @@ ___
 
 [8/25 *Blumenstock Response*](Blumenstock.md)
 
+[8/27 *Hans Rosling TED Talk*](hansRosling.md)
+
