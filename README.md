@@ -14,3 +14,4 @@ ___
 
 [8/27 *Hans Rosling TED Talk*](hansRosling.md)
 
+[9/3 *Rosling/Sen Q&A*](Q&A.md)
