@@ -20,6 +20,6 @@ A clear source of unfreedom is oppressive or dictoral governments. The citizens 
 
 Simply, markets are not all bad. Markets are a complex system that can provide oppurtunities, freedoms, and in some cases lead to equality. Now, that is not to say that markets are infintely good, government programs are still needed to assist when market failures occur. Overall, markets can be a source of good. An effective market can also cause freedom of labor. Sen also makes a anology saying generically against conversations, even if they occasionally have negative effects, is irrational, as it would be to be generically against markets.
 
-#### Condorcet and Mathaus:
+#### Sen- Condorcet and Mathaus:
 
 Condorcet beleived that birth rates would decrease as sercurity and freedom increased. On the other hand, Mathaus beleived people would continue having children as long as resources are plentiful. Condorcet is correct. There is a definte correlation between decreasing birth rates and increasing affluence. The average US citizens has greater access to resources than a subsistance farmer in Africa, yet the birthrate in the US is lower than Africa, illustratin this correlation. In fact, a major approach to address population problem is to increase quality of life (and access to contraceptives) in order to decrease fertility rates.
