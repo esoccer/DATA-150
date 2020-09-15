@@ -1,0 +1,20 @@
+##Waste Water Analysis
+
+
+Wastewater analysis involves taking samples of wastewater in order to analyze compounds in the waste. Traditionally, this is used to track illicit drug use in different cities. As with the consumption of anything, drugs leave certain residues and markers in urine. Wastewater analysis is basically a drug test for an entire city or town, allowing scientists to calculate the concentration of certain markers in the wastewater in the area. This is applicable to data science because the rate of drug use can be tied to certain temporal and/or geographic categories. Scientists can determine trends regarding when certain drugs are used most frequently by taking samples at different times and can geographically tie results to an area within a city, country, or continent. With this information, government officials, educational entities, and other interested parties can better address drug problems in their city.
+
+
+More recently, scientists have been using wastewater analysis to estimate the actual number of COVID-19 cases in US cities (and around the world). Given the limited amount of testing occurring in most US cities and the frequency of asymptomatic individuals, the numbers are not always accurate. Since COVID-19 is a virus, it mainly consists of a cell with a strand of RNA. If a person is infected with COVID-19 it will leave a unique genetic marker in a person’s feces. A similar to testing drug use can be applied in this case. Scientists take a sample of wastewater (including solid waste) from a central treatment plant in a city and test for the concentration of the COVID-19 residue. Using this data, policymakers can make better-informed decisions regarding regulations to slow the spread of COVID-19 and doctors and scientists can better predict the future trend line of infections within a city or broader area. As far as I know, waste water analysis is not widely used as in developing countries, but I think there are many ways in which it could be implemented.
+
+
+Although other disease-causing viruses have different structures than COVID-19, they are still basically a cell with either DNA or RNA. Therefore, it is reasonable to assume that other deadly viruses would leave residues in feces as well. Although there is limited information about this possibility and it is conceivable that people being inoculated could skew results, this development prospect functions on the idea that other viruses function in the same manner. Essentially, in the future, the wastewater in underdeveloped countries could be analyzed for the presence of markers that indicate the presence of measles, a high incidence of influenza, or another deadly disease. This would be an important tool for stoping outbreaks of disease-causing viruses by providing an early warning system or allowing international organizations to reallocate resources, like vaccinations, to other parts of the world. 
+
+
+Granted, this proposition has potential obstacles, like the fact that a city requires a robust and inclusive wastewater system for the analysis to occur and for an accurate conclusion to be drawn. Nonetheless, wastewater analysis for viruses could benefit underdeveloped areas in a variety of ways. First, it would save lives. Underdeveloped countries are generally more susceptible to outbreaks (in the current climate generally is an important caveat) as they have less robust healthcare systems and citizens are unable to change their lifestyles in order to reduce contact. Additionally, disease outbreaks can slow economic progress and high death rates can disrupt the workforce in a city. Consequently, although developed countries would also benefit from a similar endeavor, it is especially important in underdeveloped countries as they typically experience more social, economic, and political turbulence, making these societies less resilient to changes in other sectors. Predicting and preventing outbreaks of virus-caused diseases would protect underdeveloped countries from potential increased stress.
+
+
+
+
+
+
+
