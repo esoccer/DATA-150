@@ -1,4 +1,4 @@
-##Waste Water Analysis
+## Waste Water Analysis
 
 
 Wastewater analysis involves taking samples of wastewater in order to analyze compounds in the waste. Traditionally, this is used to track illicit drug use in different cities. As with the consumption of anything, drugs leave certain residues and markers in urine. Wastewater analysis is basically a drug test for an entire city or town, allowing scientists to calculate the concentration of certain markers in the wastewater in the area. This is applicable to data science because the rate of drug use can be tied to certain temporal and/or geographic categories. Scientists can determine trends regarding when certain drugs are used most frequently by taking samples at different times and can geographically tie results to an area within a city, country, or continent. With this information, government officials, educational entities, and other interested parties can better address drug problems in their city.
