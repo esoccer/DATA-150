@@ -2,8 +2,15 @@
 
 
 Erika Hansen
+
+
 DATA 150
+
+
 Word Count: 2,184
+
+
+[Link](https://docs.google.com/document/d/1nBLq_VhNHD92w7DzRgvIVExakXCyxbHiZcRJPRJmjsU/edit?usp=sharing) to Bibliography in Google Docs because format is a bit weird on GitHub
 
 
 References
