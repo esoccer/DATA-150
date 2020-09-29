@@ -19,3 +19,5 @@ ___
 [9/17 *Data Science Insight*](insight.md)
 
 [9/19 *Assignment 1: Annotated Bibliography*](assn1.md)
+
+[9/29 *The End of Theory?*](theory.md)
