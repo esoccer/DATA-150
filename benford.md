@@ -9,7 +9,7 @@ Notably, there was a study that did such an analysis on China, Brazil, India, Me
 
 The researches add the caveat that other accounting test should be done on this data before deeming the data faked and it is important to that not all naturally occurring data sets conform to the law, nevertheless, for the sake of argument, this insight will take the results at face value-- countries are fabricating economic data. Governments of and industries based in underdeveloped countries have a variety of motivations for such information. For example, a dictatorial government may desire to present alternative financial reports in order to hide corrupt or oppressive behavior from the rest of the world or its citizens; or, perhaps a company reports fraudulent numbers regarding oil prices with the intention of raising oil prices or covering up huge losses. Ultimately, there are many reasons for fraud on such a national scale to occur. It is important to find a way to detect such fabrications because if international or domestic economic policy is based on untrue data, the policy will be ineffective. Economic policy is already complicating enough without the addition of falsified data on which to base decisions. Therefore more robust investigations of countries’ financial reports could lead to more reliable information and potentially more effective economic policy in developing nations.
 
-###### References ######
+##### References #####
 
 
 Shi, J., Ausloos, M., & Zhu, T. (2018). Benford’s law first significant digit and distribution distances for testing the reliability of financial reports in developing countries. Physica A: Statistical Mechanics and Its Applications, 492, 878–888. ScienceDirect. https://doi.org/10.1016/j.physa.2017.11.017
