@@ -16,8 +16,10 @@ ___
 
 [9/3 *Rosling/Sen Q&A*](Q&A.md)
 
-[9/17 *Data Science Insight*](insight.md)
+[9/17 *Data Science Insight 1*](insight.md)
 
 [9/19 *Assignment 1: Annotated Bibliography*](assn1.md)
 
 [9/29 *The End of Theory?*](theory.md)
+
+[10/15 *Data Science Insight 2*] (benford.md)
