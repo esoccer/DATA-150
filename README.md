@@ -23,3 +23,5 @@ ___
 [9/29 *The End of Theory?*](theory.md)
 
 [10/15 *Data Science Insight 2*](benford.md)
+
+[10/15 *Barder*](barder.md)
