@@ -25,3 +25,5 @@ ___
 [10/15 *Data Science Insight 2*](benford.md)
 
 [10/15 *Barder*](barder.md)
+
+[10/19 *Assignment 2*](assn2.md)
