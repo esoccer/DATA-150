@@ -27,3 +27,5 @@ ___
 [10/15 *Barder*](barder.md)
 
 [10/19 *Assignment 2*](assn2.md)
+
+[10/22 *Type of Inquiry*](inquiry.md)
