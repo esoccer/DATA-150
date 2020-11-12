@@ -31,3 +31,5 @@ ___
 [10/22 *Type of Inquiry*](inquiry.md)
 
 [11/5 *In Class Essay*](inclass.md)
+
+[11/13 *Assignment 3*](methods.md)
