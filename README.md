@@ -1,6 +1,6 @@
 # DATA-150
 
-Hello! My name is Erika Hansen. I am a freshman from Yardley, PA (outside of Philly). I like to play soccer, work out, hike, and read. I am also an avid snowboarding and SCUBA diver! Right now I hope to major in biology and environmental science.
+Hello! My name is Erika Hansen. I am a freshman from Yardley, PA (outside of Philly). I like to play soccer, work out, hike, and read. I am also an avid snowboarer and SCUBA diver! Right now I hope to major in biology and environmental science.
 
 ___
 
